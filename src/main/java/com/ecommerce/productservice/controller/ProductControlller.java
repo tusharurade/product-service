@@ -1,10 +1,10 @@
-package com.ecommerce.productService.controller;
+package com.ecommerce.productservice.controller;
 
-import com.ecommerce.productService.dto.ProductRequestDTO;
-import com.ecommerce.productService.dto.ProductResponseDTO;
-import com.ecommerce.productService.entity.Product;
-import com.ecommerce.productService.mapper.ProductMapper;
-import com.ecommerce.productService.service.ProductService;
+import com.ecommerce.productservice.dto.ProductRequestDTO;
+import com.ecommerce.productservice.dto.ProductResponseDTO;
+import com.ecommerce.productservice.entity.Product;
+import com.ecommerce.productservice.mapper.ProductMapper;
+import com.ecommerce.productservice.service.ProductService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

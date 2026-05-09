@@ -1,4 +1,4 @@
-package com.ecommerce.productService.entity;
+package com.ecommerce.productservice.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

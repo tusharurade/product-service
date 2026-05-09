@@ -1,9 +1,9 @@
-package com.ecommerce.productService.service;
+package com.ecommerce.productservice.service;
 
-import com.ecommerce.productService.dto.ProductRequestDTO;
-import com.ecommerce.productService.entity.Product;
-import com.ecommerce.productService.mapper.ProductMapper;
-import com.ecommerce.productService.repository.ProductRepository;
+import com.ecommerce.productservice.dto.ProductRequestDTO;
+import com.ecommerce.productservice.entity.Product;
+import com.ecommerce.productservice.mapper.ProductMapper;
+import com.ecommerce.productservice.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

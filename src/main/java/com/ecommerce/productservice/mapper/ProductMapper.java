@@ -1,10 +1,8 @@
-package com.ecommerce.productService.mapper;
+package com.ecommerce.productservice.mapper;
 
-import com.ecommerce.productService.dto.ProductRequestDTO;
-import com.ecommerce.productService.dto.ProductResponseDTO;
-import com.ecommerce.productService.entity.Product;
-
-import java.math.BigDecimal;
+import com.ecommerce.productservice.dto.ProductRequestDTO;
+import com.ecommerce.productservice.dto.ProductResponseDTO;
+import com.ecommerce.productservice.entity.Product;
 
 public class ProductMapper {
     public static ProductResponseDTO toDTO(Product product) {

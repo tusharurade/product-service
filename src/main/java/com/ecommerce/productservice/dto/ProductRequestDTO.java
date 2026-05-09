@@ -1,4 +1,4 @@
-package com.ecommerce.productService.dto;
+package com.ecommerce.productservice.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Positive;
